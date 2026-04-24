@@ -1,0 +1,8 @@
+*.secret
+*.local
+.bashrc.secrets
+.ssh/
+.aws/
+.netrc
+.env
+.*history
