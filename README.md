@@ -23,7 +23,7 @@ source ~/.bashrc
 Pull the latest changes on any machine:
 
 ```bash
-cd ~/dotfiles
+cd ~/.dotfiles
 git pull
 source ~/.bashrc
 ```
