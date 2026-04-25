@@ -12,9 +12,9 @@ My personal shell and editor configuration, version-controlled for portability a
 Setup:
 
 ```bash
-git clone git@github.com:andy-w51/dotfiles.git ~/dotfiles
-echo 'source ~/dotfiles/.bashrc' >> ~/.bashrc
-echo 'source ~/dotfiles/.vimrc' >> ~/.vimrc
+git clone git@github.com:andy-w51/dotfiles.git ~/.dotfiles
+echo 'source ~/.dotfiles/bashrc' >> ~/.bashrc
+echo 'source ~/.dotfiles/vimrc' >> ~/.vimrc
 source ~/.bashrc
 ```
 
